@@ -4,7 +4,7 @@
 }
 nav{
     background-color: black;
-    color: yellow;
+    color: white;
     padding: 20px;
 }
 li,h1,ul{
@@ -12,7 +12,7 @@ li,h1,ul{
 }
 ul{
     margin-left: 60%;
-    color: brown;
+    color: green;
 }
 li:hover{
     color: white;
